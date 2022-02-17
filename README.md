@@ -3,4 +3,6 @@
 ## Basic Commands
 
 TO LISTOUT THE DATABASES  
-``` SHOW DATABASES``` 
+``` 
+SHOW DATABASES
+``` 
